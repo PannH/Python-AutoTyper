@@ -1,0 +1,4 @@
+Write your own text here
+One line = One message
+Isn't that insane?
+Cool, let's try it!
